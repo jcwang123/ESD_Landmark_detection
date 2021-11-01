@@ -34,4 +34,17 @@ Detailed parameters of our trained network will be uploaded soon !!!
 
 ## Citation
 
-After publishment, we will give the citation information here and you could cite this paper if it is helpful to your research !!!
+If you find this work interesting or useful, please consider citing:
+
+```
+@article{WANG2021102291,
+title = {Real-time landmark detection for precise endoscopic submucosal dissection via shape-aware relation network},
+journal = {Medical Image Analysis},
+pages = {102291},
+year = {2021},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2021.102291},
+url = {https://www.sciencedirect.com/science/article/pii/S1361841521003364},
+author = {Jiacheng Wang and Yueming Jin and Shuntian Cai and Hongzhi Xu and Pheng-Ann Heng and Jing Qin and Liansheng Wang}
+}
+```
