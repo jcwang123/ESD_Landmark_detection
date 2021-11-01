@@ -3,7 +3,7 @@
 We propose a novel shape-aware relation network for accurate and real-time landmark detection in endoscopic submucosal dissection (ESD) surgery.
 This task is of great clinical significance but extremely challenging due to bleeding, lighting reflection, and motion blur in the complicated surgical environment.
 
-This paper has been accepted by [MEDIMA 2021]().
+This paper has been accepted by [MEDIMA 2021](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003364).
 Get the full paper on [Arxiv]().
 
 ![bat](./framework.jpg)
