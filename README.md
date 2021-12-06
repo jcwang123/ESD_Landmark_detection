@@ -4,7 +4,7 @@
 
 This is an official release of the paper **Real-time landmark detection for precise endoscopic submucosal dissection via shape-aware relation network**.
 
-> [**Boundary-aware Transformers for Skin Lesion Segmentation**](https://arxiv.org/abs/2110.03864),   <br/>
+> [**Real-time landmark detection for precise endoscopic submucosal dissection via shape-aware relation network**](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003364),   <br/>
 > **Jiacheng Wang**, Yueming Jin, Shuntian Cai, Hongzhi Xu, Pheng-Ann Heng, Jing Qin, Liansheng Wang <br/>
 > In: Medical Image Analysis (MedIA), 2021  <br/>
 > [[arXiv](https://arxiv.org/abs/2111.04733)][[Bibetex](https://github.com/jcwang123/ESD_Landmark_detection#Citation)]
