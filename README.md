@@ -9,7 +9,7 @@ This is an official release of the paper **Real-time landmark detection for prec
 > In: Medical Image Analysis (MedIA), 2021  <br/>
 > [[arXiv](https://arxiv.org/abs/2111.04733)][[Bibetex](https://github.com/jcwang123/ESD_Landmark_detection#Citation)]
 
-<div align="center" border=> <img src=framework.jpg width="400" > </div>
+<div align="center" border=> <img src=framework.jpg width="800" > </div>
 
 ## Code List
 
