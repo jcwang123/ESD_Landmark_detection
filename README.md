@@ -1,13 +1,15 @@
 # Real-time landmark detection for precise endoscopic submucosal dissection via shape-aware relation network
 
-We propose a novel shape-aware relation network for accurate and real-time landmark detection in endoscopic submucosal dissection (ESD) surgery.
-This task is of great clinical significance but extremely challenging due to bleeding, lighting reflection, and motion blur in the complicated surgical environment.
+## Introduction
 
-This paper has been accepted by [MEDIMA 2021](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003364).
-Get the full paper on [Arxiv]().
+This is an official release of the paper **Real-time landmark detection for precise endoscopic submucosal dissection via shape-aware relation network**.
 
-![bat](./framework.jpg)
-Fig. 1. Overview of our proposed shape-aware relation network for real-time landmark detection in ESD surgery.
+> [**Boundary-aware Transformers for Skin Lesion Segmentation**](https://arxiv.org/abs/2110.03864),   <br/>
+> **Jiacheng Wang**, Yueming Jin, Shuntian Cai, Hongzhi Xu, Pheng-Ann Heng, Jing Qin, Liansheng Wang <br/>
+> In: Medical Image Analysis (MedIA), 2021  <br/>
+> [[arXiv](https://arxiv.org/abs/2111.04733)][[Bibetex](https://github.com/jcwang123/ESD_Landmark_detection#Citation)]
+
+<div align="center" border=> <img src=framework.jpg width="400" > </div>
 
 ## Code List
 
